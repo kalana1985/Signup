@@ -1,0 +1,73 @@
+body{
+	background-color: #1d84e2;
+}
+
+.logo{
+	display:block;
+	height: 35px;
+	margin-left:auto;
+	margin-right: auto;
+	margin-top:50px;
+
+}
+.sign{
+	display:block;
+	margin-left:auto;
+	margin-right: auto;
+	margin-top:50px;
+	width:400px;
+	height:500px;
+	background-color:white;
+	text-align: center;
+	text-decoration: none;
+	font-weight:300;
+    font-size: 40px;
+    font-color:gray;
+    
+
+}
+.btn{
+	color:white;
+	background:#1dc675;
+	font-weight:500;
+	font-size:22px;
+	cursor: pointer;
+	width:320px;
+	border-radius: 5px;
+	border:2px;
+	padding:15px;
+	height: 55px;
+	margin-top: 20px;
+}
+.btn:hover{
+	background-color:#1c9e5f;
+}
+.e-mail{
+	background-color: #f5f5f0;
+	width: 320px;
+	border-radius: 3px;
+	height: 20px;
+	border:2px;
+	padding:15px;
+}
+.password{
+	background-color: #f5f5f0;
+	width: 320px;
+	border-radius: 3px;
+	height:20px;
+	border:2px;
+	padding:15px;
+}
+a{
+	font-size:16px;
+	color:#999;
+}
+a:hover{
+	color:#757371;
+
+}
+.already,a{
+    text-align:center;
+    color:white;
+
+}
