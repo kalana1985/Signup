@@ -71,3 +71,16 @@ a:hover{
     color:white;
 
 }
+fieldset{
+	display:inline-block;
+	position: absolute;
+	left:530px;
+	bottom:250px;
+	border:none;
+	
+}
+
+
+
+
+
